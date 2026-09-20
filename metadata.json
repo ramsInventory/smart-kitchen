@@ -1,0 +1,6 @@
+{
+  "name": "Smart Kitchen – AI for Sustainability",
+  "description": "AI-powered food demand prediction and food-waste management for college canteens with interconnected Student, Canteen, and College Management dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
